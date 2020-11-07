@@ -1,6 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Elsie+Swash+Caps:400,900);
 @import url(http://fonts.googleapis.com/css?family=Clicker+Script);
 
+
 /*////////// GLOBAL //////////*/
 
 body {
@@ -197,10 +198,10 @@ img, video, audio, iframe, table, form {
 /*/////// SOCIAL ////////*/
 
 #social {
-  position: fixed;
-  top: 163px;
-  right: 20px;
-  width: 40px;
+  position:relative;
+  top: 82px;
+  right: 4px;
+  width: auto;
   z-index: 2;
 }
 
